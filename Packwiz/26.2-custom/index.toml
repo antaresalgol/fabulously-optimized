@@ -126,7 +126,7 @@ hash = "5b79b0dd590f358142d30ac01571f58051c1649159ded7164fa1ec9535d77f62"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
-hash = "4e719e15b54fe50ee853bef43a7842b35fb5036af61d929a77c8a76d636645d2"
+hash = "75d87cca860ca37b675a0f5b32db445a26573775c921b3e125cddade14f91770"
 
 [[files]]
 file = "config/modpack_defaults/config/entity_texture_features.json"
@@ -194,7 +194,7 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "6eca403b6f45f682f219e6dc036195b1ca41536dd3895176da268700348352ee"
+hash = "e291e810328527a852deda2a9e5e4aa0e4f02f9e174746819277209e0669d67e"
 
 [[files]]
 file = "mods/animatica.pw.toml"
