@@ -1,0 +1,13 @@
+name = "Fabulously Optimized (antaresalgol custom)"
+author = "robotkoer, antaresalgol"
+version = "14.1.0-custom.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de091d3b7718d500ccc9358e8f8bc3310e3b83cd433e770a0705fde723685c57"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
